@@ -1,0 +1,10 @@
+web developer
+1.belajar HTML,CSS
+2.Belajar Javascript
+3.Belajar menggunakan Node_JS beserta modul npm
+4.Modul Npm dasar yang wajib dikuasai
+  1.Express
+  3.express layouts
+  3.Mongodb driver
+  4.Mongoose
+5.belajar menggunakan mongodb database
