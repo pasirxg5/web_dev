@@ -8,3 +8,5 @@ web developer
   3.Mongodb driver
   4.Mongoose
 5.belajar menggunakan mongodb database
+6.belajar version control system
+7.belajar webserver yaitu nginx
